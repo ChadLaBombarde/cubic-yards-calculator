@@ -119,3 +119,14 @@
         font-size: 0.9rem;
       }
     }
+    .footer{
+      width: 40vw;
+      height: auto;
+      color: #ff0000;
+      background-color: #040404;
+      display: flex;
+      flex-direction: column;
+      align-items: center;
+      justify-content: center;
+
+    }
